@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8SxzuoVE504Y8TpQKqkmxgZ6hFh4JQNb90MLL9YaVhE=",
+  "Source": "BaltaStore.Api",
+  "BasePath": "_content/BaltaStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

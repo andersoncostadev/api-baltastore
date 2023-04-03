@@ -1,0 +1,17 @@
+C:\balta\BaltaStore\BaltaStore.Infra\bin\Debug\net7.0\BaltaStore.Infra.deps.json
+C:\balta\BaltaStore\BaltaStore.Infra\bin\Debug\net7.0\BaltaStore.Infra.dll
+C:\balta\BaltaStore\BaltaStore.Infra\bin\Debug\net7.0\BaltaStore.Infra.pdb
+C:\balta\BaltaStore\BaltaStore.Infra\obj\Debug\net7.0\BaltaStore.Infra.csproj.AssemblyReference.cache
+C:\balta\BaltaStore\BaltaStore.Infra\obj\Debug\net7.0\BaltaStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\balta\BaltaStore\BaltaStore.Infra\obj\Debug\net7.0\BaltaStore.Infra.AssemblyInfoInputs.cache
+C:\balta\BaltaStore\BaltaStore.Infra\obj\Debug\net7.0\BaltaStore.Infra.AssemblyInfo.cs
+C:\balta\BaltaStore\BaltaStore.Infra\obj\Debug\net7.0\BaltaStore.Infra.csproj.CoreCompileInputs.cache
+C:\balta\BaltaStore\BaltaStore.Infra\obj\Debug\net7.0\BaltaStore.Infra.dll
+C:\balta\BaltaStore\BaltaStore.Infra\obj\Debug\net7.0\refint\BaltaStore.Infra.dll
+C:\balta\BaltaStore\BaltaStore.Infra\obj\Debug\net7.0\BaltaStore.Infra.pdb
+C:\balta\BaltaStore\BaltaStore.Infra\obj\Debug\net7.0\ref\BaltaStore.Infra.dll
+C:\balta\BaltaStore\BaltaStore.Infra\bin\Debug\net7.0\BaltaStore.Domain.dll
+C:\balta\BaltaStore\BaltaStore.Infra\bin\Debug\net7.0\BaltaStore.Shared.dll
+C:\balta\BaltaStore\BaltaStore.Infra\bin\Debug\net7.0\BaltaStore.Domain.pdb
+C:\balta\BaltaStore\BaltaStore.Infra\bin\Debug\net7.0\BaltaStore.Shared.pdb
+C:\balta\BaltaStore\BaltaStore.Infra\obj\Debug\net7.0\BaltaStore.Infra.csproj.CopyComplete
